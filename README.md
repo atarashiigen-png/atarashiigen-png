@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atarashiigen-png/.github/main/profile/1.png" alt="ATARASHIIGEN Logo" width="200"/>
+  <img src="https://github.com/atarashiigen-png/atarashiigen-png/blob/main/1.png" alt="ATARASHIIGEN Logo" width="200"/>
   <h1>🚀 ATARASHIIGEN</h1>
   <p><em>Building Enterprise-Grade Management Systems & SaaS Solutions</em></p>
   <p>
