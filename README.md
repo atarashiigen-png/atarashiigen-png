@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ATARASHIIGEN/ATARASHIIGEN/main/logo.png" alt="ATARASHIIGEN Logo" width="200"/>
   <h1>🚀 ATARASHIIGEN</h1>
-  <p><em>Innovating the Future, One Commit at a Time</em></p>
+  <p><em>Building Enterprise-Grade Management Systems & SaaS Solutions</em></p>
   <p>
     <img src="https://img.shields.io/badge/Industry-Computer%20Software-blue" alt="Industry"/>
     <img src="https://img.shields.io/badge/Founded-2024-brightgreen" alt="Founded"/>
     <img src="https://img.shields.io/badge/Team-10%2B%20Members-orange" alt="Team"/>
+    <img src="https://img.shields.io/badge/Specialization-ERP%20%26%20SaaS-red" alt="Specialization"/>
   </p>
 </div>
 
@@ -13,10 +14,32 @@
 
 ## 👋 Welcome to ATARASHIIGEN
 
-**ATARASHIIGEN** (新しい基因 - "New Gene" in Japanese) is a forward-thinking technology company dedicated to building innovative digital solutions that transform businesses and enhance user experiences.
+**ATARASHIIGEN** (新しい基因 - "New Gene" in Japanese) is a forward-thinking technology company specializing in building **Enterprise Management Systems**, **SaaS Platforms**, and **Custom Business Solutions** that streamline operations and drive business growth.
 
 ### 🎯 Our Mission
-To bridge the gap between cutting-edge technology and real-world business needs by delivering scalable, secure, and intelligent software solutions.
+To empower businesses with intelligent, scalable, and secure management systems that transform complex operations into simple, efficient workflows.
+
+### 🏗️ What We Build
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📊 ERP Systems</h3>
+      <p>Comprehensive enterprise resource planning solutions</p>
+      <p><code>Finance</code> <code>HR</code> <code>Inventory</code> <code>Supply Chain</code></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>☁️ SaaS Platforms</h3>
+      <p>Scalable subscription-based software solutions</p>
+      <p><code>Multi-tenant</code> <code>Billing</code> <code>Analytics</code> <code>API-first</code></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🏢 Management Systems</h3>
+      <p>Custom admin dashboards and internal tools</p>
+      <p><code>CRM</code> <code>CMS</code> <code>Project Management</code> <code>Reporting</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,15 +54,26 @@ To bridge the gap between cutting-edge technology and real-world business needs 
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs" alt="Vue.js"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui" alt="MUI"/>
+      <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign" alt="Ant Design"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" alt="Django"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" alt="FastAPI"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Admin Panels</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django_Admin-092E20?style=flat&logo=django" alt="Django Admin"/>
+      <img src="https://img.shields.io/badge/Filament-FF2D20?style=flat&logo=laravel" alt="Filament"/>
+      <img src="https://img.shields.io/badge/React_Admin-2D3748?style=flat&logo=react" alt="React Admin"/>
     </td>
   </tr>
 </table>
@@ -77,7 +111,7 @@ To bridge the gap between cutting-edge technology and real-world business needs 
   <tr>
     <td align="center"><b>AI Services</b></td>
     <td>
-      🧠 NLP & Chatbots • 🔍 Computer Vision • 📊 Predictive Analytics • 🎯 Recommendation Systems • 🗣️ Speech Recognition • 🤖 AI Automation
+      🧠 NLP & Chatbots • 📊 Predictive Analytics • 🎯 Recommendation Systems • 🤖 AI Automation • 📈 Business Intelligence
     </td>
   </tr>
 </table>
@@ -88,9 +122,9 @@ To bridge the gap between cutting-edge technology and real-world business needs 
     <td align="center"><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis" alt="Redis"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/>
     </td>
   </tr>
   <tr>
@@ -100,6 +134,7 @@ To bridge the gap between cutting-edge technology and real-world business needs 
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" alt="Kubernetes"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux" alt="Linux"/>
     </td>
   </tr>
 </table>
@@ -111,19 +146,22 @@ To bridge the gap between cutting-edge technology and real-world business needs 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🌐 Web Development</h3>
-      <p>Custom web applications built with modern frameworks</p>
-      <p><code>React</code> <code>Next.js</code> <code>Vue.js</code></p>
+      <h3>📊 ERP Solutions</h3>
+      <p>Enterprise resource planning systems for businesses of all sizes</p>
+      <p><code>Finance & Accounting</code> <code>HR Management</code></p>
+      <p><code>Inventory Control</code> <code>Supply Chain</code></p>
     </td>
     <td width="33%" align="center">
-      <h3>🟦 WordPress Solutions</h3>
-      <p>Enterprise-grade WordPress development and optimization</p>
-      <p><code>Custom Themes</code> <code>Plugins</code> <code>WooCommerce</code></p>
+      <h3>☁️ SaaS Development</h3>
+      <p>Scalable subscription-based platforms with multi-tenancy</p>
+      <p><code>Multi-tenant Architecture</code> <code>Subscription Billing</code></p>
+      <p><code>Analytics Dashboard</code> <code>API-first Design</code></p>
     </td>
     <td width="33%" align="center">
-      <h3>🤖 AI & Automation</h3>
-      <p>Intelligent solutions powered by cutting-edge AI</p>
-      <p><code>NLP</code> <code>Computer Vision</code> <code>LLMs</code></p>
+      <h3>🏢 Management Systems</h3>
+      <p>Custom internal tools and admin dashboards</p>
+      <p><code>CRM</code> <code>Project Management</code></p>
+      <p><code>Reporting & Analytics</code> <code>Workflow Automation</code></p>
     </td>
   </tr>
 </table>
@@ -134,10 +172,10 @@ To bridge the gap between cutting-edge technology and real-world business needs 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[AI-Powered Chatbot]** | Intelligent conversational AI for customer support | Python, TensorFlow, NLP |
-| **[WordPress Enterprise]** | Scalable WordPress solution with headless CMS | WordPress, React, GraphQL |
-| **[E-Commerce Platform]** | Full-featured online store with AI recommendations | WooCommerce, Next.js, AI |
-| **[Project 4]** | Brief description of what this project does | Node.js, PostgreSQL, Docker |
+| **[ERP System]** | Comprehensive enterprise resource planning system | Django, React, PostgreSQL |
+| **[SaaS Platform]** | Multi-tenant subscription-based business platform | Next.js, FastAPI, MongoDB |
+| **[HR Management]** | Complete HR solution with payroll and attendance | Laravel, Vue.js, MySQL |
+| **[AI-Powered Analytics]** | Business intelligence with predictive analytics | Python, TensorFlow, Redis |
 
 > 🔗 *Click on project names to visit their repositories.*
 
@@ -145,13 +183,14 @@ To bridge the gap between cutting-edge technology and real-world business needs 
 
 ## 👥 Our Team
 
-We are a diverse team of **developers**, **designers**, and **innovators** passionate about technology and problem-solving.
+We are a diverse team of **developers**, **designers**, and **innovators** passionate about building enterprise solutions.
 
-- 🧑‍💻 **Engineering** - Building scalable solutions
-- 🎨 **Design** - Creating intuitive user experiences
-- 📊 **Product** - Turning ideas into reality
-- 🔒 **Security** - Ensuring data protection and privacy
-- 🤖 **AI Specialists** - Pushing the boundaries of intelligent systems
+- 🧑‍💻 **Backend Engineers** - Building robust, scalable systems
+- 🎨 **Frontend Developers** - Creating intuitive admin interfaces
+- 🏗️ **Solutions Architects** - Designing enterprise-grade architecture
+- 📊 **Data Engineers** - Powering business intelligence and analytics
+- 🤖 **AI Specialists** - Integrating intelligence into management systems
+- 🔒 **Security Engineers** - Protecting business-critical data
 
 ---
 
